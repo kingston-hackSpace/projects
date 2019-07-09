@@ -20,10 +20,10 @@
 
 int state = 1; 
 
-int nunPin1 = 8;  
-int nunPin2 = 9;
-int nunPin3 = 10;
-int nunPin4 = 11;
+int nunPin1 = 7;  
+int nunPin2 = 8;
+int nunPin3 = 9;
+int nunPin4 = 10;
 
 int nun_1_x =0;int nun_1_y =0;int nun_1_z =0;
 int nun_2_x =0;int nun_2_y =0;int nun_2_z =0;
