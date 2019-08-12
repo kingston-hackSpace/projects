@@ -6,7 +6,7 @@ https://learn.adafruit.com/connecting-a-16x32-rgb-led-matrix-panel-to-a-raspberr
 
 Once the new cc file is added to the examples folder, To compile the program, type this into the command line:
 
-gcc -Wall -o minimal-example2 minimal-example2.cc -lwiringPi -lled-matrix
+gcc -Wall -o rgbledcountdown rgbledcountdown.cc -lwiringPi -lled-matrix
 
 To run the program, type the following into the command line:
 
